@@ -8,15 +8,15 @@ git clone        recuperer un depot sur git hub et le copier sur l'ordi
 
 git satus        verifie la diference entre le git actuel et les modifications aportées
 
-git add.          ajouter tous les fichiers modifiés
+git add .          ajouter tous les fichiers modifiés
 
 git add fichier   ajouter le fichier specifié
 
 git commit -a -m "premier test"  -a=tout -m= message a afficher avec 
 
-git reset --hard  "!bourrin!" reprends la derniere version (au dernier commit)
-
 git push          envoie tous les commits sur git hub
+
+git reset --hard  "!bourrin!" reprends la derniere version (au dernier commit)
 
 git log -p        afiche tous les derniers changements
 
