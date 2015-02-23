@@ -6,7 +6,7 @@ cd ..            remonter dans le chemin relatif
 
 git clone        recuperer un depot sur git hub et le copier sur l'ordi
 
-git satus        verifie la diference entre le git actuel et les modifications aportées
+git satus        verifie la diference entre le git de base et les modifications aportées
 
 git add.          ajouter tous les fichiers modifiés
 
